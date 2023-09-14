@@ -1,0 +1,197 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "ExtraCoalBlock1",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "extra_coal_block_1"
+    },
+    {
+      "name": "ExtraCoalBlock1t",
+      "type": "fuel",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "extra_coal_block_1t"
+    },
+    {
+      "name": "ExtraCoalBlock2",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "extra_coal_block_2"
+    },
+    {
+      "name": "ExtraCoalBlock2t",
+      "type": "fuel",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "extra_coal_block_2t"
+    },
+    {
+      "name": "AwesomeExtraCoal",
+      "type": "tab",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "awesome_extra_coal"
+    },
+    {
+      "name": "ExtraCoalBlock3",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "extra_coal_block_3"
+    },
+    {
+      "name": "ExtraCoalBlock4",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "extra_coal_block_4"
+    },
+    {
+      "name": "ExtraCoalBlock5",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "extra_coal_block_5"
+    },
+    {
+      "name": "ExtraCoalBlock6",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "extra_coal_block_6"
+    },
+    {
+      "name": "ExtraCoalBlock7",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "extra_coal_block_7"
+    },
+    {
+      "name": "ExtraCoalBlock8",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "extra_coal_block_8"
+    },
+    {
+      "name": "ExtraCoalBlock3t",
+      "type": "fuel",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "extra_coal_block_3t"
+    },
+    {
+      "name": "ExtraCoalBlock4t",
+      "type": "fuel",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "extra_coal_block_4t"
+    },
+    {
+      "name": "ExtraCoalBlock5t",
+      "type": "fuel",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "extra_coal_block_5t"
+    },
+    {
+      "name": "ExtraCoalBlock6t",
+      "type": "fuel",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "extra_coal_block_6t"
+    },
+    {
+      "name": "ExtraCoalBlock7t",
+      "type": "fuel",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "extra_coal_block_7t"
+    },
+    {
+      "name": "EctraCoalBlock8t",
+      "type": "fuel",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ectra_coal_block_8t"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "tile.extra_coal_block_6.name": "Extra Coal Block 6",
+      "tile.extra_coal_block_3.name": "Extra Coal Block 3",
+      "tile.extra_coal_block_4.name": "Extra Coal Block 4",
+      "tile.extra_coal_block_8.name": "Extra Coal Block 8",
+      "tile.extra_coal_block_1.name": "Extra Coal Block 1",
+      "tile.extra_coal_block_5.name": "Extra Coal Block 5",
+      "tile.extra_coal_block_2.name": "Extra Coal Block 2",
+      "itemGroup.tabawesome_extra_coal": "Awesome Extra Coal",
+      "tile.extra_coal_block_7.name": "Extra Coal Block 7"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "awesome_extra_coal",
+    "modName": "Awesome Extra Coal",
+    "version": "1.0.0",
+    "description": "Add extra coal blocks to minecraft",
+    "author": "Sasha Wai",
+    "websiteURL": "https://sashawai.stream",
+    "license": "All Rights Reserved",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.12.2",
+    "credits": "Awesome Extra Coal",
+    "modElementsPackage": "net.sashawai.awesomeextracoal",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}

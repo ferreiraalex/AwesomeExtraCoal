@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "awesome_extra_coal:blocks/coal_5x",
+    "up": "awesome_extra_coal:blocks/coal_5x",
+    "north": "awesome_extra_coal:blocks/coal_5x",
+    "east": "awesome_extra_coal:blocks/coal_5x",
+    "south": "awesome_extra_coal:blocks/coal_5x",
+    "west": "awesome_extra_coal:blocks/coal_5x",
+    "particle": "awesome_extra_coal:blocks/coal_5x"
+  }
+}

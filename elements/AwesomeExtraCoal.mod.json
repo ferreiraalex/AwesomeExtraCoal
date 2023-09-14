@@ -1,0 +1,11 @@
+{
+  "_fv": 18,
+  "_type": "tab",
+  "definition": {
+    "name": "Awesome Extra Coal",
+    "icon": {
+      "value": "CUSTOM:ExtraCoalBlock2"
+    },
+    "showSearch": false
+  }
+}

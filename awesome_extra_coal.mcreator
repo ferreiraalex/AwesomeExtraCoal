@@ -230,6 +230,17 @@
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
+    "ru_ru": {
+      "tile.extra_coal_block_6.name": "Ёкстра ”гольный Ѕлок 6",
+      "tile.extra_coal_block_3.name": "Ёкстра ”гольный Ѕлок 3",
+      "tile.extra_coal_block_4.name": "Ёкстра ”гольный Ѕлок 4",
+      "tile.extra_coal_block_8.name": "Ёкстра ”гольный Ѕлок 8",
+      "tile.extra_coal_block_1.name": "Ёкстра ”гольный Ѕлок 1",
+      "tile.extra_coal_block_5.name": "Ёкстра ”гольный Ѕлок 5",
+      "tile.extra_coal_block_2.name": "Ёкстра ”гольный Ѕлок 2",
+      "itemGroup.tabawesome_extra_coal": "Awesome Extra Coal",
+      "tile.extra_coal_block_7.name": "Extra Coal Block 7"
+    },
     "en_us": {
       "tile.extra_coal_block_6.name": "Extra Coal Block 6",
       "tile.extra_coal_block_3.name": "Extra Coal Block 3",

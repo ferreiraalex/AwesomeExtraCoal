@@ -1,0 +1,42 @@
+{
+  "group": "awesome_extra_coal",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "awesome_extra_coal:extra_coal_block_2"
+    },
+    "1": {
+      "item": "awesome_extra_coal:extra_coal_block_2"
+    },
+    "2": {
+      "item": "awesome_extra_coal:extra_coal_block_2"
+    },
+    "3": {
+      "item": "awesome_extra_coal:extra_coal_block_2"
+    },
+    "4": {
+      "item": "awesome_extra_coal:extra_coal_block_2"
+    },
+    "5": {
+      "item": "awesome_extra_coal:extra_coal_block_2"
+    },
+    "6": {
+      "item": "awesome_extra_coal:extra_coal_block_2"
+    },
+    "7": {
+      "item": "awesome_extra_coal:extra_coal_block_2"
+    },
+    "8": {
+      "item": "awesome_extra_coal:extra_coal_block_2"
+    }
+  },
+  "result": {
+    "item": "awesome_extra_coal:extra_coal_block_3",
+    "count": 1
+  }
+}

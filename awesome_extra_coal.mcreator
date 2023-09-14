@@ -153,6 +153,78 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "ectra_coal_block_8t"
+    },
+    {
+      "name": "ExtraCoalBlock1Recipe",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "extra_coal_block_1_recipe"
+    },
+    {
+      "name": "ExtraCoalBlock2Recipe",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "extra_coal_block_2_recipe"
+    },
+    {
+      "name": "ExtraCoalBlock3Recipe",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "extra_coal_block_3_recipe"
+    },
+    {
+      "name": "ExtraCoalBlock4Recipe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "extra_coal_block_4_recipe"
+    },
+    {
+      "name": "ExtraCoalBlock5Recipe",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "extra_coal_block_5_recipe"
+    },
+    {
+      "name": "ExtraCoalBlock6Recipe",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "extra_coal_block_6_recipe"
+    },
+    {
+      "name": "ExtraCoalBlock7Recipe",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "extra_coal_block_7_recipe"
+    },
+    {
+      "name": "ExtraCoalBlock8Recipe",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "extra_coal_block_8_recipe"
     }
   ],
   "variable_elements": [],
@@ -177,7 +249,7 @@
   "workspaceSettings": {
     "modid": "awesome_extra_coal",
     "modName": "Awesome Extra Coal",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Add extra coal blocks to minecraft",
     "author": "Sasha Wai",
     "websiteURL": "https://sashawai.stream",
